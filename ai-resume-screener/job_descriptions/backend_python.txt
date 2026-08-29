@@ -1,0 +1,18 @@
+Backend Python Developer
+
+Required Skills:
+Python
+FastAPI
+Django
+REST API
+SQL
+PostgreSQL
+Git
+Docker
+AWS
+
+Responsibilities:
+Build scalable backend APIs.
+Write clean and maintainable code.
+Optimize database queries.
+Collaborate with frontend developers.

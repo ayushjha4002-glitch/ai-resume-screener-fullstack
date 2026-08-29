@@ -1,0 +1,20 @@
+ Software Development Engineer (SDE) is responsible for designing, developing, testing, and maintaining software applications and systems to meet user needs and business goals.  SDEs work across the full software development lifecycle, collaborating with product managers, designers, and QA engineers to build reliable, scalable, and efficient solutions. 
+
+Core Responsibilities
+
+Development & Coding: Write clean, maintainable, and efficient code based on technical specifications and requirements. 
+System Design: Contribute to the architecture and design of new systems, features, and scalable solutions. 
+Quality Assurance: Debug, troubleshoot, and resolve software defects; conduct testing and code reviews to ensure high-quality standards. 
+Collaboration: Work with cross-functional teams to define requirements, plan projects, and ensure alignment with business objectives. 
+Maintenance: Improve existing codebases, optimize performance, and maintain technical documentation. 
+Typical Requirements
+
+Education: Bachelor’s degree in Computer Science, Software Engineering, or a related field. 
+Technical Skills: Proficiency in programming languages such as Java, C++, Python, or JavaScript; knowledge of databases, APIs, and cloud platforms. 
+Fundamentals: Strong understanding of data structures, algorithms, object-oriented programming, and software development methodologies (e.g., Agile). 
+Soft Skills: Problem-solving abilities, clear communication, and teamwork capabilities.
+Career Progression (SDE Levels)
+
+SDE-1 (Entry-Level): 0–2 years experience; focuses on learning the codebase, implementing well-defined tasks, and basic coding. 
+SDE-2 (Mid-Level): 2–5 years experience; owns features end-to-end, contributes to architecture, and mentors juniors. 
+SDE-3 (Senior): 5+ years experience; drives technical direction, designs scalable systems, and leads complex projects. 
